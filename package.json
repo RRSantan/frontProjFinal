@@ -1,0 +1,17 @@
+{
+  "name": "testeBancoAlfa-main",
+  "version": "1.0.0",
+  "description": "*Teste solicitado pelo banco Alfa O teste consiste em uma pokedex construida a partir do consumo da api https://pokeapi.co/api/v2/ com um bando de busca",
+  "main": "script.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "http-proxy-middleware": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
